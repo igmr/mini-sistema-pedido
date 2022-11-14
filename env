@@ -1,0 +1,15 @@
+
+#   Configuración de base de datos
+DB_HOST=''
+BD_USER=''
+DB_PASSWORD=''
+DB_PORT=5432
+DB_DATABASE=''
+DB_DRIVER='postgres'
+
+#   Configuración de aplicación
+APP_HOST=''
+APP_PORT=3001
+APP_JWT=''
+APP_JWT_EXPIRE='2h'
+APP_JWT_ALGORITHM=''

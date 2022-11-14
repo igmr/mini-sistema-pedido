@@ -1,0 +1,11 @@
+##  General
+
+#   Project
+.vscode
+node_modules
+.env
+package-lock.js
+
+#   Mac Os
+._.DS_Store
+._*
